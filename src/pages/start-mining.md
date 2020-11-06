@@ -7,16 +7,16 @@ duration: 10 minutes
 tags:
   - tutorial
 images:
-  large: /images/pages/mining.svg
-  sm: /images/pages/mining-sm.svg
+  large: /images/pages/start-mining.svg
+  sm: /images/pages/start-mining-sm.svg
 ---
 
 ## Introduction
 
-Make sure you've followed the [Running testnet node](/stacks-blockchain/running-testnet-node) tutorial. Once completed it's only a few more steps to run a proof-of-burn miner on the testnet.
+Make sure you've followed the [Running testnet node](/understand-stacks/running-testnet-node) tutorial. Once completed it's only a few more steps to run a proof-of-burn miner on the testnet.
 
 [@page-reference | inline]
-| /stacks-blockchain/running-testnet-node
+| /understand-stacks/running-testnet-node
 
 If you want to learn more about the technical details of minig, please review the mining guide:
 

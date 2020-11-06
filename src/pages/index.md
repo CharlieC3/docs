@@ -8,14 +8,14 @@ description: All you need to build decentralized apps and smart contracts.
 ## Get started
 
 [@page-reference | grid]
-| /build-an-app, /smart-contracts/overview, /mining
+| /build-apps, /write-smart-contracts/overview, /start-mining
 
 ## Tutorials
 
 [@page-reference | grid]
-| /authentication/building-todo-app, /smart-contracts/counter-tutorial
+| /authentication/building-todo-app, /write-smart-contracts/counter-tutorial
 
 ## Explore
 
 [@page-reference | grid-small]
-| /ecosystem/overview, /ecosystem/stacks-token, /stacks-blockchain/running-testnet-node, /stacks-blockchain/proof-of-transfer
+| /ecosystem/overview, /ecosystem/stacks-token, /understand-stacks/running-testnet-node, /understand-stacks/proof-of-transfer

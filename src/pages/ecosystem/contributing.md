@@ -132,7 +132,7 @@ If you are adding a new route, you have to add your route to a section contained
 sections:
   - pages:
       - path: /
-      - path: /build-an-app # is an overview page
+      - path: /build-apps # is an overview page
       - path: /smart-contracts
         pages:
           - path: /overview

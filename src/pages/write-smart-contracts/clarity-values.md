@@ -225,7 +225,7 @@ A Clarity lists underlying data can be accessed via its `list` field.
 
 Now that you know how to construct _and_ deconstruct Clarity values, you can use them to build `contract-call` transactions that call smart contract functions, and you can utilize their responses.
 
-This is covered in depth [here](https://docs.blockstack.org/stacks-blockchain/transactions#construction).
+This is covered in depth [here](/understand-stacks/transactions#construction).
 
 ## Utilizing Clarity Values from Transaction Responses
 
