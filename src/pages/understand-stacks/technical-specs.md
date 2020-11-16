@@ -27,7 +27,7 @@ description: Summary of technical specifications of Stacks 2.0
 - Two reward addresses / block, for a total of 4000 addresses every reward cycle. The addresses are chosen using a VRF (verifiable random function), so each node can deterministically arrive at the same reward addresses for a given block.
 - Stacking threshold: 0.025% of the participating amount of STX when participation is between 25% and 100% and when participation is below 25%, the threshold level is always 0.00625 of the liquid supply of STX.
 - Delegation: An STX address can designate another address to participate in Stacking on its behalf. [Relevant section in SIP-007](https://github.com/blockstack/stacks-blockchain/blob/master/sip/sip-007-stacking-consensus.md#stacker-delegation).
-- Pooling: STX holders that individually do not meet the Stacking threshold can pool together their holdings to participate in Stacking. To do this, STX holders must set the (optional) reward address to the "delegate address". For more details, see [this reference](https://docs.blockstack.org/references/stacking-contract#delegate-stx).
+- Pooling: STX holders that individually do not meet the Stacking threshold can pool together their holdings to participate in Stacking. To do this, STX holders must set the (optional) reward address to the "delegate address". For more details, see [this reference](/references/stacking-contract#delegate-stx).
 - Further reading: [Stacking](/understand-stacks/stacking)
 
 ## Accounts and Addresses
