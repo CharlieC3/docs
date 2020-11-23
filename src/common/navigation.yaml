@@ -6,6 +6,8 @@ sections:
         pages:
           - path: /overview
           - path: /principals
+          - path: /cli-wallet-quickstart
+          - path: /install-source
           - path: /types
         sections:
           - title: Tutorials
