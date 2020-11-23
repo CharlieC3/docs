@@ -6,7 +6,7 @@ sections:
         pages:
           - path: /overview
           - path: /principals
-          - path: /clarity-values
+          - path: /types
         sections:
           - title: Tutorials
             pages:
