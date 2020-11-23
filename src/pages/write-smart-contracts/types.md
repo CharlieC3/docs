@@ -11,7 +11,7 @@ In order to build web applications that interact with Clarity contracts, you wil
 
 ## Clarity Types
 
-Please see the following page for information:
+Please see the following page for information on Clarity Types:
 
 [@page-reference | inline]
 | /references/language-types

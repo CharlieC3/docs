@@ -21,7 +21,7 @@ Make sure you've followed the [Running testnet node](/understand-stacks/running-
 If you want to learn more about the technical details of minig, please review the mining guide:
 
 [@page-reference | inline]
-| /stacks-blockchain/mining
+| /understand-stacks/mining
 
 ## Running a miner
 
@@ -127,7 +127,7 @@ For a full reference of subcommands and configuration options used by `stacks-no
 To read more about the technical details of mining on the Stacks 2.0 network, have a look at the minig guide:
 
 [@page-reference | inline]
-| /stacks-blockchain/mining
+| /understand-stacks/mining
 
 ### Enable debug logging
 
